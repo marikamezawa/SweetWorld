@@ -11,7 +11,7 @@ window.onload = function()
             width:larguraJogo, 
             height:alturaJogo,
             autoCenter:Phaser.Scale.CENTER,
-        
+           
         },
 
         // características físicas do jogo
