@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../GitHub/M1-EX/exercicio_dragao"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "meuJogo"
+	}
+}
